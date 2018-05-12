@@ -3,12 +3,12 @@
 
 ## 2018
 
-![DeNA TechCon ライブサービスの演出実装](https://www.slideshare.net/dena_tech/ss-88557943)
+[DeNA TechCon ライブサービスの演出実装](https://www.slideshare.net/dena_tech/ss-88557943)
 
 ## 2017
 
-![DeNA TechCon  DebugHeadを使ったiOSアプリ開発手法](https://www.slideshare.net/dena_tech/debugheadios-denatechcon)
+[DeNA TechCon  DebugHeadを使ったiOSアプリ開発手法](https://www.slideshare.net/dena_tech/debugheadios-denatechcon)
 
 ## 2016
 
-![Young Donuts 実装を意識したデザインとは](https://yng-dnts.connpass.com/event/36358/)
+[Young Donuts 実装を意識したデザインとは](https://yng-dnts.connpass.com/event/36358/)
