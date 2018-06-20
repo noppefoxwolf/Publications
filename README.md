@@ -3,6 +3,8 @@
 
 ## 2018
 
+[Swift愛好会#32 Swiftとメタデータ](https://speakerdeck.com/noppefoxwolf/swifttometadeta)
+
 [potatotips51 AppProtection](https://speakerdeck.com/noppefoxwolf/iosapurikaravpnjie-sok-falsejian-chu-wosuru)
 
 [DeNA TechCon ライブサービスの演出実装](https://www.slideshare.net/dena_tech/ss-88557943)
