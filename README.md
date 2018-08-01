@@ -3,9 +3,11 @@
 
 ## 2018
 
+技術書展５ `予定`
+
 iOSDC 2018 `予定`
 
-執筆系 `予定`
+商用誌１件の執筆 `予定`
 
 [potatotips52 Video decode on iOS](https://speakerdeck.com/noppefoxwolf/video-decode-on-ios)
 
