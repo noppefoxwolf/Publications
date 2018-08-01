@@ -3,6 +3,12 @@
 
 ## 2018
 
+iOSDC 2018 `予定`
+
+執筆系 `予定`
+
+[potatotips52 Video decode on iOS](https://speakerdeck.com/noppefoxwolf/video-decode-on-ios)
+
 [Swift愛好会#32 Swiftとメタデータ](https://speakerdeck.com/noppefoxwolf/swifttometadeta)
 
 [potatotips51 AppProtection](https://speakerdeck.com/noppefoxwolf/iosapurikaravpnjie-sok-falsejian-chu-wosuru)
