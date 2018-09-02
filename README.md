@@ -5,7 +5,9 @@
 
 技術書展５ `予定`
 
-iOSDC 2018 `予定`
+俺コン `予定`
+
+[iOSDC 2018](https://speakerdeck.com/noppefoxwolf/raibupei-xin-apurifalseaitemuzai-sheng-wometaldeshi-zhuang-surushi-ninatutahua)
 
 商用誌１件の執筆 `予定`
 
