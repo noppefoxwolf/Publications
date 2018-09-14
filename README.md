@@ -4,9 +4,9 @@
 
 技術書展５ `予定`
 
-俺コン `予定`
+[俺コン iOSでmp4をデコードして自分だけの動画プレーヤーを作ろう！](https://speakerdeck.com/noppefoxwolf/orecon)
 
-[iOSDC 2018](https://speakerdeck.com/noppefoxwolf/raibupei-xin-apurifalseaitemuzai-sheng-wometaldeshi-zhuang-surushi-ninatutahua)
+[iOSDC 2018 ライブ配信アプリのアイテム再生をMetalで実装する事になった話](https://speakerdeck.com/noppefoxwolf/raibupei-xin-apurifalseaitemuzai-sheng-wometaldeshi-zhuang-surushi-ninatutahua)
 
 商用誌１件の執筆 `予定`
 
