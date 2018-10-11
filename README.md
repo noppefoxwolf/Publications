@@ -1,5 +1,3 @@
-# speaking
-
 | タイトル | 場所 | 時期 |
 | :---: | :---: | :---: |
 | [Pocochaにおけるアセット管理](https://speakerdeck.com/noppefoxwolf/potatotips55) | [potatotips\#55]() | 2018 |
