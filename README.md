@@ -3,7 +3,7 @@
 | タイトル | 場所 |
 | :---: | :---: |
 | [Pocochaにおけるアセット管理](https://speakerdeck.com/noppefoxwolf/potatotips55) | [potatotips\#55]() |
-| `未定` | [Otemachi.swift #02](https://nikkei.connpass.com/event/98887/?utm_campaign=event_lottery_join&utm_source=notifications&utm_medium=email&utm_content=detail_btn) | 
+| [カオスなJSONにCodableで対応していく](https://speakerdeck.com/noppefoxwolf/otemachi02) | [Otemachi.swift #02](https://nikkei.connpass.com/event/98887/?utm_campaign=event_lottery_join&utm_source=notifications&utm_medium=email&utm_content=detail_btn) | 
 | [MusicKit開発入門](https://noppe.booth.pm/items/1024381) | [技術書典５](https://techbookfest.org/event/tbf05) |
 | [iOSでmp4をデコードして自分だけの動画プレーヤーを作ろう！](https://speakerdeck.com/noppefoxwolf/orecon) | [俺コン](https://ore-con.firebaseapp.com) |
 | [ライブ配信アプリのアイテム再生をMetalで実装する事になった話](https://speakerdeck.com/noppefoxwolf/raibupei-xin-apurifalseaitemuzai-sheng-wometaldeshi-zhuang-surushi-ninatutahua) | [iOSDC](https://iosdc.jp/2018/) |
