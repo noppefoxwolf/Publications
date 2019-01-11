@@ -2,6 +2,7 @@
 # 2018
 | タイトル | 場所 |
 | :---: | :---: |
+| [CVBufferの話](https://speakerdeck.com/noppefoxwolf/roppongi-dot-swift) | [ROPPONGI.swift\#6]() |
 | [Pocochaにおけるアセット管理](https://speakerdeck.com/noppefoxwolf/potatotips55) | [potatotips\#55]() |
 | [カオスなJSONにCodableで対応していく](https://speakerdeck.com/noppefoxwolf/otemachi02) | [Otemachi.swift #02](https://nikkei.connpass.com/event/98887/?utm_campaign=event_lottery_join&utm_source=notifications&utm_medium=email&utm_content=detail_btn) | 
 | [MusicKit開発入門](https://noppe.booth.pm/items/1024381) | [技術書典５](https://techbookfest.org/event/tbf05) |
