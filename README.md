@@ -2,6 +2,8 @@
 
 | タイトル | 場所 |
 | :---: | :---: |
+|| 技術書典６ |
+|| try!Swift LT |
 | [SceneKitでふんわりした影を描画する](https://speakerdeck.com/noppefoxwolf/potatotips58) | [potatotips#58]() |
 
 # 2018
