@@ -4,6 +4,7 @@
 | :---: | :---: |
 || 技術書典６ |
 || try!Swift LT |
+| Splathon #9 決勝進出ベスト8入 | [Splathon #9](https://m.twitch.tv/splathon/profile?desktop-redirect=offline_channel) |
 || [PocoDevMeetup#1]() |
 | [SceneKitでふんわりした影を描画する](https://speakerdeck.com/noppefoxwolf/potatotips58) | [potatotips#58]() |
 
