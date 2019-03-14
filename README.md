@@ -35,6 +35,12 @@
 | :---: | :---: |
 | 実装を意識したデザインとは | [Young Donuts](https://yng-dnts.connpass.com/event/36358/) |
 
+# ~2015
+
+| タイトル | 場所 |
+| :---: | : ---: |
+| 夜狐八重奏（Twitterクライアント） | AppStore Socialカテゴリ 有料１位 |
+
 # お問い合わせ
 
 noppelabs@gmail.com まで
