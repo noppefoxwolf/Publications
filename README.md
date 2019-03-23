@@ -3,7 +3,7 @@
 | タイトル | 場所 |
 | :---: | :---: |
 | ARKit | 技術書典６ |
-| Limited import clarification and its effect | [try!Swift](https://www.tryswift.co/events/2019/tokyo/en/#noppefoxwolf) |
+| [Limited import clarification and its effect](https://speakerdeck.com/noppefoxwolf/tryswift2019) | [try!Swift](https://www.tryswift.co/events/2019/tokyo/en/#noppefoxwolf) |
 | Splathon #9 決勝トーナメント進出ベスト8入 | [Splathon #9](https://m.twitch.tv/splathon/profile?desktop-redirect=offline_channel) |
 | [立ち上げ時のライブ配信アプリに最適な開発環境・技術的ノウハウとは](https://speakerdeck.com/noppefoxwolf/pocodevmeetup-1) | [PocoDevMeetup#1]() |
 | [SceneKitでふんわりした影を描画する](https://speakerdeck.com/noppefoxwolf/potatotips58) | [potatotips#58]() |
