@@ -40,6 +40,14 @@
 | :---: | :---: |
 | 夜狐八重奏（Twitterクライアント） | AppStore Socialカテゴリ 有料１位 |
 
-# お問い合わせ
+# Contacts
 
-noppelabs@gmail.com まで
+noppelabs@gmail.com
+
+# Links
+
+[Qiita](https://qiita.com/noppefoxwolf)
+
+[Twitter](https://twitter.com/noppefoxwolf)
+
+[Github](https://github.com/noppefoxwolf)
