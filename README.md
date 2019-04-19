@@ -46,7 +46,9 @@ noppelabs@gmail.com
 
 # Links
 
-[Qiita](https://qiita.com/noppefoxwolf)
+[Blog](https://medium.com/@noppefoxwolf)
+
+[Qiita](https://qiita.com/noppefoxwolf) 
 
 [Twitter](https://twitter.com/noppefoxwolf)
 
