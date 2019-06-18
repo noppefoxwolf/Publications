@@ -2,6 +2,7 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
+|🗣| ソーシャルライブから見たWWDC | iOS de kanpai! |
 |🤝| WWDC Atendee | WWDC19 |
 |✏️| [Blenderでアセットから作るARKitアプリ開発入門](https://techbookfest.org/event/tbf06/circle/63710006) | [技術書典６](https://techbookfest.org/event/tbf06) |
 |🗣| [Limited import clarification and its effect](https://speakerdeck.com/noppefoxwolf/tryswift2019) | [try!Swift](https://www.tryswift.co/events/2019/tokyo/en/#noppefoxwolf) |
