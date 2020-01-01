@@ -2,6 +2,7 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
+|⏫| [Add support VRMSpringBone](https://github.com/tattn/VRMKit/pull/8) | tattn/VRMKit |
 |🗣| [ソーシャルライブサービスにおけるデジタル化粧の仕組みと実装](https://fortee.jp/iosdc-japan-2019/proposal/14b44196-0f52-40b7-9924-588f5b0dc027) | iOSDC |
 |🗣| ソーシャルライブから見たWWDC | iOS de kanpai! |
 |🤝| WWDC Atendee | WWDC19 |
