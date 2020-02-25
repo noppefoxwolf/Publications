@@ -53,6 +53,10 @@
 | :---: | :---: | :---: |
 |📱| 夜狐八重奏（Twitterクライアント） | AppStore Socialカテゴリ 有料１位 |
 
+# Work
+
+[Pococha](https://www.pococha.com) at DeNA
+
 # Contacts
 
 noppelabs@gmail.com
