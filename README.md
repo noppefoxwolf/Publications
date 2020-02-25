@@ -1,3 +1,12 @@
+# 2020
+
+
+|| タイトル | 場所 |
+| :---: | :---: | :---: |
+|📱|[vear](https://apps.apple.com/us/app/vear/id1490697369)| AppStore |
+|💰|[個人スポンサー](https://www.tryswift.co/events/2020/tokyo/jp/)| try!Swift2020 |
+|🗣|[iOSの動画プレーヤーを自作しよう](https://www.tryswift.co/events/2020/tokyo/jp/#workshop_about_video)| try!Swift2020 |
+
 # 2019
 
 || タイトル | 場所 |
