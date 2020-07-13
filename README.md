@@ -65,6 +65,8 @@ noppelabs@gmail.com
 
 # Links
 
+[note](https://note.com/noppefoxwolf)
+
 [Blog](https://medium.com/@noppefoxwolf)
 
 [Qiita](https://qiita.com/noppefoxwolf) 
