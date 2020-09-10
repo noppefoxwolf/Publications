@@ -3,6 +3,8 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
+|🗣|[google/mediapipe で始めるARアプリ開発](https://fortee.jp/iosdc-japan-2020/proposal/10e8ee31-d3b9-493f-87a8-4cf6169dad5d) | iOSDC |
+|🗣|[モバイルファーストなアプリを作るためにvearがしたこと](https://youtu.be/b83xymLi8O4?t=3468)| xRDCC |
 |📱|[バーチャル自撮りアプリvearリリース](https://apps.apple.com/us/app/vear/id1490697369)| AppStore |
 |💰|[個人スポンサー](https://www.tryswift.co/events/2020/tokyo/jp/)| try!Swift2020 |
 |🗣|[iOSの動画プレーヤーを自作しよう](https://www.tryswift.co/events/2020/tokyo/jp/#workshop_about_video)| try!Swift2020 |
