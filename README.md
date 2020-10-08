@@ -3,6 +3,7 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
+|📱| vear | AppStore Utility無料カテゴリ US40位 / 全体720位 |
 |🗣|[google/mediapipe で始めるARアプリ開発](https://fortee.jp/iosdc-japan-2020/proposal/10e8ee31-d3b9-493f-87a8-4cf6169dad5d) | iOSDC |
 |🗣|[モバイルファーストなアプリを作るためにvearがしたこと](https://youtu.be/b83xymLi8O4?t=3468)| xRDCC |
 |📱|[バーチャル自撮りアプリvearリリース](https://apps.apple.com/us/app/vear/id1490697369)| AppStore |
