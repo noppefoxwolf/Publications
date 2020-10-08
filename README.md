@@ -63,6 +63,14 @@
 
 [Pococha](https://www.pococha.com) at DeNA
 
+# Donations
+
+## 2018/03 ~ 
+
+||  |  |
+| :---: | :---: | :---: |
+|💰| Kingfisher | [OpenCollective](https://opencollective.com/kingfisher#backers) |
+
 # Contacts
 
 noppelabs@gmail.com
