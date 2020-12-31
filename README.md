@@ -3,8 +3,9 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
+|🗣|個人開発歴10年のiOSエンジニアが語る『アプリ開発攻略メソッド』| [connpass](https://careerselect-studygroup.connpass.com/event/198014/) |
 |💻| InnerGarage | [BOOTH](https://noppe.booth.pm/items/2462152) |
-|📱| vear | AppStore Utility無料カテゴリ US40位 / 全体720位, Design JP56位..etc |
+|📱| vear | AppStore Utility無料カテゴリ US40位 / 全体720位, Design JP15位..etc |
 |🗣|[google/mediapipe で始めるARアプリ開発](https://fortee.jp/iosdc-japan-2020/proposal/10e8ee31-d3b9-493f-87a8-4cf6169dad5d) | iOSDC |
 |🗣|[モバイルファーストなアプリを作るためにvearがしたこと](https://youtu.be/b83xymLi8O4?t=3468)| xRDCC |
 |📱|[バーチャル自撮りアプリvearリリース](https://apps.apple.com/us/app/vear/id1490697369)| AppStore |
