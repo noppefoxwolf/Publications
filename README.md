@@ -11,6 +11,7 @@
 |🗣|[UIのブラックボックスを探る](https://fortee.jp/iosdc-japan-2023/proposal/937a29a4-775c-4471-a85b-ddff7379c2c5) | iOSDC |
 |📱| Nightfox DAWN | AppStore ソーシャル有料カテゴリ JP1位 / 総合有料　JP8位 |
 |📱|[Mastodonクライアント Nightfox DAWNリリース](https://apps.apple.com/jp/app/nightfox-dawn-for-mastodon/id1668645019)| AppStore |
+|👶| 第二子誕生 | - |
 
 # 2022
 
@@ -24,6 +25,7 @@
 || タイトル | 場所 |
 | :---: | :---: | :---: |
 |🗣|[ランタイムデバッグのススメ](https://fortee.jp/iosdc-japan-2021/proposal/d178e3bb-e2fe-4ccd-8a99-d53951468ce1) | iOSDC |
+|👶| 第一子誕生 | - |
 
 # 2020
 
