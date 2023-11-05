@@ -1,14 +1,23 @@
+# 2024
+
+|| タイトル | 場所 |
+| :---: | :---: | :---: |
+|💰|[個人スポンサー](https://tryswift.jp)| try!Swift2024 |
+
 # 2023
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
 |🗣|[UIのブラックボックスを探る](https://fortee.jp/iosdc-japan-2023/proposal/937a29a4-775c-4471-a85b-ddff7379c2c5) | iOSDC |
+|📱| Nightfox DAWN | AppStore ソーシャル有料カテゴリ JP1位 / 総合有料　JP8位 |
+|📱|[Mastodonクライアント Nightfox DAWNリリース](https://apps.apple.com/jp/app/nightfox-dawn-for-mastodon/id1668645019)| AppStore |
 
 # 2022
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
 |🗣|[CoreGraphicsでドット絵を描こう](https://fortee.jp/iosdc-japan-2022/proposal/5e883ff1-3323-4911-b38c-53bf91141e09) | iOSDC |
+|📱|[ドット絵エディタEditormodeリリース](https://apps.apple.com/jp/app/ドット絵メーカー-editormode/id1586258429)| AppStore |
 
 # 2021
 
