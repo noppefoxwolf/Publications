@@ -2,10 +2,10 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
-|| 登壇 | iOSDC Japan 2024 |
-|| 登壇 | try!Swift WWDC Recap |
-|| Nightfox DAWN 掲載 |Apple WWDC Keynote|
-|| WWDC24 |Apple|
+|🗣| 登壇 | iOSDC Japan 2024 |
+|🗣| 登壇 | try!Swift WWDC Recap |
+|🍎| Nightfox DAWN 掲載 |Apple WWDC Keynote|
+|🍎| WWDC Atendee |WWDC24|
 |💰|[個人スポンサー](https://iosdc.jp)| iOSDC Japan 2024 |
 |💰|[個人スポンサー](https://tryswift.jp)| try!Swift2024 |
 
@@ -52,7 +52,7 @@
 |⏫| [Add support VRMSpringBone](https://github.com/tattn/VRMKit/pull/8) | tattn/VRMKit |
 |🗣| [ソーシャルライブサービスにおけるデジタル化粧の仕組みと実装](https://fortee.jp/iosdc-japan-2019/proposal/14b44196-0f52-40b7-9924-588f5b0dc027) | iOSDC |
 |🗣| ソーシャルライブから見たWWDC | iOS de kanpai! |
-|🤝| WWDC Atendee | WWDC19 |
+|🍎| WWDC Atendee | WWDC19 |
 |✏️| [Blenderでアセットから作るARKitアプリ開発入門](https://techbookfest.org/event/tbf06/circle/63710006) | [技術書典６](https://techbookfest.org/event/tbf06) |
 |🗣| [Limited import clarification and its effect](https://speakerdeck.com/noppefoxwolf/tryswift2019) | [try!Swift](https://www.tryswift.co/events/2019/tokyo/en/#noppefoxwolf) |
 |👾| Splathon #9 決勝トーナメント進出ベスト8入 | [Splathon #9](https://m.twitch.tv/splathon/profile?desktop-redirect=offline_channel) |
