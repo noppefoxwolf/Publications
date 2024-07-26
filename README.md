@@ -6,6 +6,7 @@
 |🗣| 登壇 | try!Swift WWDC Recap |
 |🍎| Nightfox DAWN 掲載 |Apple WWDC Keynote|
 |🍎| WWDC Atendee |WWDC24|
+|💰|個人スポンサー| WWDC参加者の一部渡航費 |
 |💰|[個人スポンサー](https://iosdc.jp)| iOSDC Japan 2024 |
 |💰|[個人スポンサー](https://tryswift.jp)| try!Swift2024 |
 
