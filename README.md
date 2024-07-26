@@ -2,6 +2,9 @@
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
+|登壇| iOSDC Japan 2024 |
+|登壇| try!Swift WWDC Recap |
+|💰|[個人スポンサー](https://iosdc.jp)| iOSDC Japan 2024 |
 |💰|[個人スポンサー](https://tryswift.jp)| try!Swift2024 |
 
 # 2023
