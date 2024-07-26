@@ -4,6 +4,8 @@
 | :---: | :---: | :---: |
 |登壇| iOSDC Japan 2024 |
 |登壇| try!Swift WWDC Recap |
+|Nightfox DAWN 掲載| WWDC Keynote |
+|参加| WWDC24 |
 |💰|[個人スポンサー](https://iosdc.jp)| iOSDC Japan 2024 |
 |💰|[個人スポンサー](https://tryswift.jp)| try!Swift2024 |
 
