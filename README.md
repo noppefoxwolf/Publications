@@ -101,13 +101,21 @@
 
 # Work
 
+## 2021 ~ 2022
+
+[NOT A HOTEL](https://notahotel.com/en)
+
+## 2020 ~ 2021
+
+[Mikan](https://mikan.com)
+
 ## 2016 ~ 
 
 [Pococha](https://www.pococha.com) at DeNA
 
 # Donations
 
-## 2018/03 ~ 
+## 2018/03 ~ 2021/04
 
 ||  |  |
 | :---: | :---: | :---: |
