@@ -1,8 +1,19 @@
+# 2026
+
+
+|| タイトル | 場所 |
+| :---: | :---: | :---: |
+|🗣| 登壇 | iOSDC 2026 |
+|💰|[個人スポンサー](https://iosdc.jp)| iOSDC Japan 2026 |
+
 # 2025
 
 || タイトル | 場所 |
 | :---: | :---: | :---: |
 |🗣| 登壇 | try!Swift 2025 |
+|🍎| DAWN for Mastodon フィーチャー | AppStore |
+|💰|[個人スポンサー](https://iosdc.jp)| iOSDC Japan 2025 |
+|💰|[個人スポンサー](https://tryswift.jp)| try!Swift2025 |
 
 # 2024
 
